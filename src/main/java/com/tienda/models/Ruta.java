@@ -11,7 +11,7 @@ public class Ruta {
         puntos.add(punto);
     }
 
-    public ArrayList<String> getPuntos(){
+    public ArrayList<Punto> getPuntos(){
         return puntos;
     }
 
